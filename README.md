@@ -19,3 +19,14 @@ Once the environment is loaded run the build.bat file and it will produce the ts
 
 Run the program from the command line.
 Tested on cmd and the PowerShell version you can get in the ms store.
+
+### Controls
+
+W, A, S, D for movement
+
+SPACE for shooting
+
+### Gameplay
+
+- You have one hp so any damage taken is game over
+- There are pickups marked with a blue P that will spawn, these give you additional weapons
