@@ -9,9 +9,9 @@ A small terminal based shmup game. Very much a work in progress.
 ## Build
 
 To build the project you will need the msvc compiler "cl" and the c environment.
-The easies way of doing this is to install the compiler via Visual Studio.
+The easiest way of doing this is to install the compiler via Visual Studio.
 
-The environment can be loaded up using the x64 "Native Tools" command prompt provided with Visual Sudio or manually load up the vcvarsall.bat in a cmd instance
+The environment can be loaded up using the x64 "Native Tools" command prompt provided with Visual Studio or manually load up the vcvarsall.bat in a cmd instance
 
 Once the environment is loaded run the build.bat file and it will produce the tsi.exe binary
 
